@@ -1,0 +1,15 @@
+{
+  "name": "AlexCline-dirtree",
+  "version": "0.2.1",
+  "author": "AlexCline",
+  "summary": "A module to provide a dirtree function which returns an array of a directory tree from a path string.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/AlexCline/puppet-dirtree",
+  "project_page": "https://forge.puppet.com/AlexCline/dirtree",
+  "issues_url": "https://github.com/AlexCline/puppet-dirtree/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
